@@ -1,0 +1,1 @@
+This repository contains the code and documentation for a real-time monitoring system designed for smart healthcare applications. The system utilizes IoT sensors to collect patient data, which is then processed and analyzed using cloud-based services.
